@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="961meh1" group-title="PORTUGAL",[COLOR magenta][I][B] *** 961meh1 *** [/B][/I][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="" tvg-name="Update 2024-02-09 00:37:49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",Update 2024-02-07 00:37:49
+#EXTINF:-1 tvg-id="" tvg-name="Update 2024-02-10 00:37:49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",Update 2024-02-07 00:37:49
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" group-title="PORTUGAL",RTP 1 
 http://sonickx.xyz:80/play/_ROI-b23AvTBJA_Ngh_bKmolMGljc_8h3_enXwYZqQk/ts
